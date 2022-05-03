@@ -1,0 +1,21 @@
+Estaba entre elegir un framework como bootstrap pero decidi hacer todo con grid y usar mediaqueries
+para el responsive
+
+
+                                 --Aplicando SEO --
+
+Para poder tener mejor posicionamiento de busqueda en mi pagina tuve que realizar estos cambios.
+
+                                -- Cambie el Titulo --
+
+Titulo Anterior:Vida Sana
+Titulo Nuevo:Vida Sana | El Arte de Vivir Sanamente
+
+                                -- Agrege tambien --
+ 
+Meta Description:Nuestro Sitio de Vida Sana,Somos profecionales en el ambito de nutricion,
+brindamos diferentes estilos y comidas saludables para llegar a vivir sanamente.
+
+Meta kw:Vida Sana,Nutricion,Comidas,Vivir,Estilos,Empresa familiar,Arte,Vida.
+
+Open Graph:Title,Image,Type,Description
